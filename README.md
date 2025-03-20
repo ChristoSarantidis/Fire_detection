@@ -5,6 +5,8 @@ Note, the names were changed to fire1,fire2,fire3,...,fire260 for better underst
 
 
 
+
+
 Each fold contains:
 
 187 train images
@@ -12,6 +14,8 @@ Each fold contains:
 21 validation images
 
 52 test images
+
+
 
 
 
